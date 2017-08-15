@@ -11,8 +11,9 @@ and then run the code
 
 >java packageName.fileName
 
-</p>
-</p>
+  
+  
+  
 这是一个简单的文件管理工具，可以简单的进行批量文件处理（如本工具就有批量删除指定文件的功能）
 
 Java文件可以用CMD运行
