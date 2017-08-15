@@ -17,7 +17,10 @@ and then run the code
 
 Java文件可以用CMD运行
 
-#步骤
+##步骤
+
 >1.进入Java文件所在路径（cd 文件夹路径，回车）
+
 >2.输入javac -d . fileName.java回车编译Java文件（fileName是Java文件的文件名）
+
 >3.输入java packageName.fileName回车运行编译后的代码（packageName是类的包名，fileName是文件名）
