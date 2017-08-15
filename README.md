@@ -17,7 +17,7 @@ and then run the code
 
 Java文件可以用CMD运行
 
-##步骤
+## 步骤
 
 >1.进入Java文件所在路径（cd 文件夹路径，回车）
 
